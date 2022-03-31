@@ -3,7 +3,7 @@
 require 'vendor/autoload.php';
 
 Flight::route('/', function () {
-    echo 'hello world! :-) vele maleni uci git';
+    echo 'Testing branch push from lab2';
 });
 Flight::start();
 ?>
